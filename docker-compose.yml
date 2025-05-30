@@ -1,0 +1,8 @@
+version: "3.8"
+services:
+  benefit-ai-explorer:
+    build: .
+    ports:
+      - "3000:3000"
+    environment:
+      - OPENROUTER_API_KEY=${OPENROUTER_API_KEY}

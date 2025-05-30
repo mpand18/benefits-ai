@@ -1,0 +1,44 @@
+[
+  {
+    "id": "001",
+    "segment": "frecuente",
+    "preferences": ["café", "desayuno"],
+    "ticketPromedio": 85,
+    "ultimaCompra": "2025-05-20"
+  },
+  {
+    "id": "002",
+    "segment": "ocasional",
+    "preferences": ["botanas", "refresco"],
+    "ticketPromedio": 40,
+    "ultimaCompra": "2025-05-10"
+  },
+  {
+    "id": "003",
+    "segment": "nuevo",
+    "preferences": ["coleccionables"],
+    "ticketPromedio": 60,
+    "ultimaCompra": "2025-05-21"
+  },
+  {
+    "id": "004",
+    "segment": "exclusivo",
+    "preferences": ["tecnología", "novedades"],
+    "ticketPromedio": 120,
+    "ultimaCompra": "2025-05-18"
+  },
+  {
+    "id": "005",
+    "segment": "madrugador",
+    "preferences": ["café", "hotdog"],
+    "ticketPromedio": 55,
+    "ultimaCompra": "2025-05-19"
+  },
+  {
+    "id": "006",
+    "segment": "deportivo",
+    "preferences": ["bebida energética", "snack"],
+    "ticketPromedio": 75,
+    "ultimaCompra": "2025-05-22"
+  }
+]

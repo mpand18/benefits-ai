@@ -1,0 +1,44 @@
+[
+  {
+    "name": "2x1 en café Andatti",
+    "type": "coupon",
+    "validFrom": "2025-06-01",
+    "validTo": "2025-06-15",
+    "ruleExpression": "compra.producto == 'café' && compra.monto >= 30"
+  },
+  {
+    "name": "10% extra puntos en botanas",
+    "type": "extraPoints",
+    "validFrom": "2025-06-01",
+    "validTo": "2025-06-30",
+    "ruleExpression": "compra.categoría == 'snack'"
+  },
+  {
+    "name": "Acceso exclusivo a preventa de coleccionables",
+    "type": "exclusiveAccess",
+    "validFrom": "2025-06-05",
+    "validTo": "2025-06-20",
+    "ruleExpression": "cliente.segmento == 'EXCLUSIVO'"
+  },
+  {
+    "name": "20% en combos de desayuno",
+    "type": "discount",
+    "validFrom": "2025-06-01",
+    "validTo": "2025-06-10",
+    "ruleExpression": "compra.categoría == 'desayuno' && compra.hora < 11"
+  },
+  {
+    "name": "Triple puntos en bebidas energéticas",
+    "type": "extraPoints",
+    "validFrom": "2025-06-10",
+    "validTo": "2025-06-20",
+    "ruleExpression": "compra.producto == 'bebida energética'"
+  },
+  {
+    "name": "50% en segundo hotdog",
+    "type": "coupon",
+    "validFrom": "2025-06-01",
+    "validTo": "2025-06-30",
+    "ruleExpression": "compra.producto == 'hotdog' && compra.cantidad >= 2"
+  }
+]
