@@ -55,11 +55,14 @@ Todos esperan:
 Ejemplo de usos:
 
 Ranking de beneficios:
+
 ![image](https://github.com/user-attachments/assets/4be9a7ba-5e5e-4dda-9e71-c9bf4134c1a3)
 
 Preferencias segun perfil:
+
 ![image](https://github.com/user-attachments/assets/c85d6647-b035-4a78-8b1f-b2b8a4394b4f)
 
 Improvements:
+
 ![image](https://github.com/user-attachments/assets/a7852a3b-1bdd-4406-bb5f-582c0fe9669e)
 
