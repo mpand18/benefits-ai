@@ -14,9 +14,7 @@ Vamos a:
 OPENROUTER_API_KEY=tu_api_key
 ```
 Una vez la carguen ejecutar ```export $(cat .env | xargs)``` y luego
-``` echo $OPENROUTER_API_KEY
-``` 
-para verificar que quedo cargada la key.
+``` echo $OPENROUTER_API_KEY```  para verificar que quedo cargada la key.
 
 Para verificar que tienene acceso al modelo pueden ir a 
 ```
