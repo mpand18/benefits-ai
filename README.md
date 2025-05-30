@@ -7,6 +7,8 @@ Vamos a:
 
 ---
 
+Para obtener tu clave debes entrar a https://openrouter.ai/, crear una cuenta y ir en tu perfil a "keys" y generar una.
+
 ## 🚀 Cómo levantarlo con Docker
 
 1. Configurá tu clave en un archivo `.env` en la raíz:
